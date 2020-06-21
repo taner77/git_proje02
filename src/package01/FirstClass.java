@@ -5,5 +5,8 @@ public class FirstClass {
         System.out.println("Ilk commit from local repository");
 
         System.out.println("Feature adli yeni branch olusturduk");
+
+        System.out.println("local f den remote F ye");
+
     }
 }
