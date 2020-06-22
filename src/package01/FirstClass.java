@@ -14,7 +14,7 @@ public class FirstClass {
 
 
 
-        System.out.println("Master dan israrci commit");
+
 
     }
 }
