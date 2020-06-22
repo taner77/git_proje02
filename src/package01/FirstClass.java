@@ -7,6 +7,7 @@ public class FirstClass {
         System.out.println("Master dan yeni bir commit");
 
         System.out.println("from git master");
+        System.out.println("from git master for fetch");
 
     }
 }
