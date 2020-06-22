@@ -6,10 +6,6 @@ public class FirstClass {
 
         System.out.println("Master dan yeni bir commit");
 
-
-
-        System.out.println("Master dan israrci commit");
-
         System.out.println("from git master");
 
     }
