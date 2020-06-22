@@ -11,6 +11,7 @@ public class FirstClass {
         System.out.println("from taner branch");
 
         System.out.println("Master dan yeni bir commit");
+        System.out.println("taner den git featur a");
 
 
 
