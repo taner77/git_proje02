@@ -8,6 +8,7 @@ public class FirstClass {
 
         System.out.println("from git master");
         System.out.println("from git master for fetch");
+        System.out.println("new tr");
 
     }
 }
